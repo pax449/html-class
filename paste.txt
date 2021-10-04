@@ -1,0 +1,41 @@
+
+      
+ <h1>My Web Page</h1>
+ <h2>This is an h2</h2>
+ <h3>Here's an h3</h3>
+ <h4>Hello</h4>
+ <h5 class="title">Hello World</h5>
+ <h6>Thats all</h6>
+ <h5>Lovely</h5>
+
+ <div class="container">
+     <h2>Show me what divs are</h2>
+     <h5>Divs get used as containers for other html elements and help divide</h5>
+ </div>
+
+ <div class="flex"><p>
+
+
+ </p>
+<div class= "box" id= "box1"> Box 1</div>
+<div class= "box" id= "box2"> Box 2</div>
+<div class= "box" id= "box3"> Box 3</div>
+<div class= "box" id= "box4"> Box 4</div>
+<div class= "box" id= "box5"> Box 5</div>
+<div class= "box" id= "box6"> Box 6</div>
+</div>
+
+
+
+ <section><p>Here's a paragraph with normal text</p>
+<i id="italic">This is italics</i><br>
+<em>Emphasized text</em><br>
+<strong>Showing an element with stronger text</strong><br>
+<b>How is bold different?</b><br>
+</section>
+<a href="http://amazon.com">Ecommerce</a>
+
+<img src="kitten2.jpg" alt="kitten">
+<a href="http://petfinder.com"><img src="kitten1.jpg" alt="kitten" class= "circle-img"></a>
+
+
